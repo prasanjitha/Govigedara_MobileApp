@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "148791246818",
+    "project_id": "testingdb-267fe",
+    "storage_bucket": "testingdb-267fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148791246818:android:57d3335054c1727e9083bb",
+        "android_client_info": {
+          "package_name": "com.nirmalp.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148791246818-1ncf854b3vr1uk4sqbgba092epc1lnrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhRN0imW2NLHhnDagHXXWehqURKZpJ5vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148791246818-1ncf854b3vr1uk4sqbgba092epc1lnrj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
