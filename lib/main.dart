@@ -104,3 +104,6 @@ class _SplashScreenState extends State<SplashScreen>
     );
   }
 }
+// create new branch to login to work 
+void register(){
+}
